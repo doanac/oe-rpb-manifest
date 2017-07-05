@@ -1,6 +1,8 @@
 oe-rpb-manifest
 =================
 
+IGNORE THIS CHANGE
+
 LTD OE RPB Repo manifest repository
 
 These are the setup scripts for the OE RPB buildsystem. If you want to (re)build packages or images for OE RPB, this is the thing to use.
@@ -47,7 +49,7 @@ MACHINE values can be:
 * dragonboard-820c
 * hikey
 * ls1043ardb
-* raspberrypi3 
+* raspberrypi3
 
 DISTRO values can be:
 * rpb
